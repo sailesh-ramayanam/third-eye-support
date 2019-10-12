@@ -15,4 +15,4 @@ Third Eye is a plugin for Adobe XD. Third Eye simulates colorblind views of your
 You can provide feedback, request features or report issues through any of the following means.
 - To use a Google form [click here](https://docs.google.com/forms/d/e/1FAIpQLSdJGLNoLNcu4qYdBcGtM1DkGZJhtDr2lMBPZ3rtO--Lhc0nsA/viewform?usp=pp_url)
 - To use GitHub issues [click here](https://github.com/sailesh-ramayanam/third-eye-support/issues/new)
-- Send an email to ramayanam.sailesh@gmail.com
+- Send an email to <ramayanam.sailesh@gmail.com>
